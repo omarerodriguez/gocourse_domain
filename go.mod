@@ -1,4 +1,4 @@
-module github.com/omarerodriguez/gocourse_web
+module github.com/omarerodriguez/gocourse_domain
 
 go 1.23.3
 
